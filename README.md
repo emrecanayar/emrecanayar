@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL Server – Genel Tekrar](https://emrecanayar.wordpress.com/2022/10/25/sql-server-genel-tekrar/)
 - [SQL Server  – Having Kullanımı](https://emrecanayar.wordpress.com/2022/10/17/sql-server-having-kullanimi/)
 - [SQL Server – Group By Kullanımı](https://emrecanayar.wordpress.com/2022/10/17/sql-server-group-by-kullanimi/)
 - [SQL Server – Case When Then Kullanımı](https://emrecanayar.wordpress.com/2022/10/17/sql-server-case-then-when-kullanimi/)
-- [SQL Server Aggeregate Fonksiyonlar](https://emrecanayar.wordpress.com/2022/08/31/sql-server-aggeregate-fonksiyonlar/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
