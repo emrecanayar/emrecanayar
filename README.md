@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL Server – SubQuery Kullanımı](https://emrecanayar.wordpress.com/2022/12/16/sql-server-subquery-kullanimi/)
 - [SQL Server – Genel Tekrar](https://emrecanayar.wordpress.com/2022/10/25/sql-server-genel-tekrar/)
 - [SQL Server  – Having Kullanımı](https://emrecanayar.wordpress.com/2022/10/17/sql-server-having-kullanimi/)
 - [SQL Server – Group By Kullanımı](https://emrecanayar.wordpress.com/2022/10/17/sql-server-group-by-kullanimi/)
-- [SQL Server – Case When Then Kullanımı](https://emrecanayar.wordpress.com/2022/10/17/sql-server-case-then-when-kullanimi/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
