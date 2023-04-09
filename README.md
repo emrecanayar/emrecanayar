@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL Server Windowing](https://emrecanayar.com/2023/04/09/sql-server-windowing/)
+- [SQL Server Trigger](https://emrecanayar.com/2023/04/09/sql-server-trigger-2/)
 - [SQL Server Transaction](https://emrecanayar.com/2023/04/09/sql-server-transaction/)
 - [SQL Server Stored Procedure](https://emrecanayar.com/2023/04/09/sql-server-stored-procedure/)
-- [SQL Server User Defined Functions](https://emrecanayar.com/2023/04/09/sql-server-user-defined-functions/)
-- [SQL Server Views](https://emrecanayar.com/2023/04/09/sql-server-views/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
