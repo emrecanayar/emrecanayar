@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [SQL Server Views](https://emrecanayar.wordpress.com/2023/04/09/sql-server-views/)
 - [SQL Server Join İşlemleri](https://emrecanayar.wordpress.com/2023/04/09/sql-server-join-islemleri/)
 - [SQL Server – SubQuery Kullanımı](https://emrecanayar.wordpress.com/2022/12/16/sql-server-subquery-kullanimi/)
 - [SQL Server – Genel Tekrar](https://emrecanayar.wordpress.com/2022/10/25/sql-server-genel-tekrar/)
-- [SQL Server  – Having Kullanımı](https://emrecanayar.wordpress.com/2022/10/17/sql-server-having-kullanimi/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
