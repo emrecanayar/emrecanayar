@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Liskov Substitution Principle – SOLID](https://emrecanayar.com/2023/04/10/liskov-substitution-principle-solid/)
 - [Open/Closed Principle-SOLID](https://emrecanayar.com/2023/04/10/open-closed-principle-solid/)
 - [Single Responsibility Principle-SOLID](https://emrecanayar.com/2023/04/10/single-responsibility-principle-solid/)
 - [SQL Server Pivot](https://emrecanayar.com/2023/04/09/sql-server-pivot/)
-- [SQL Server Windowing](https://emrecanayar.com/2023/04/09/sql-server-windowing/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
