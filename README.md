@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Dependency Inversion Principle-SOLID](https://emrecanayar.com/2023/04/10/dependency-inversion-principle-solid/)
 - [Interface Segregation Principle-SOLID](https://emrecanayar.com/2023/04/10/interface-segregation-principle-solid/)
 - [Liskov Substitution Principle – SOLID](https://emrecanayar.com/2023/04/10/liskov-substitution-principle-solid/)
 - [Open/Closed Principle-SOLID](https://emrecanayar.com/2023/04/10/open-closed-principle-solid/)
-- [Single Responsibility Principle-SOLID](https://emrecanayar.com/2023/04/10/single-responsibility-principle-solid/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
