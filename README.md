@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [RabbitMQ – Basit Düzeyde Publisher ve Consumer Uygulamaları Oluşturma](https://emrecanayar.com/2023/04/16/rabbitmq-basit-duzeyde-publisher-ve-consumer-uygulamalari-olusturma/)
 - [RabbitMQ Exchange &amp; Binding Kavramları](https://emrecanayar.com/2023/04/16/rabbitmq-exchange-binding-kavramlari/)
 - [RabbitMQ Kurulumu &lpar;CloudAMQP &rpar;](https://emrecanayar.com/2023/04/16/rabbitmq-kurulumu-cloudamqp/)
 - [RabbitMQ Nedir?](https://emrecanayar.com/2023/04/16/rabbitmq-nedir/)
-- [Webhook Nedir?](https://emrecanayar.com/2023/04/11/webhook-nedir/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
