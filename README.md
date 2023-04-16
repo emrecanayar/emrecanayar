@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [RabbitMQ Exchange &amp; Binding Kavramları](https://emrecanayar.com/2023/04/16/rabbitmq-exchange-binding-kavramlari/)
+- [RabbitMQ Kurulumu &lpar;CloudAMQP &rpar;](https://emrecanayar.com/2023/04/16/rabbitmq-kurulumu-cloudamqp/)
 - [RabbitMQ Nedir?](https://emrecanayar.com/2023/04/16/rabbitmq-nedir/)
 - [Webhook Nedir?](https://emrecanayar.com/2023/04/11/webhook-nedir/)
-- [Dependency Inversion Principle-SOLID](https://emrecanayar.com/2023/04/10/dependency-inversion-principle-solid/)
-- [Interface Segregation Principle-SOLID](https://emrecanayar.com/2023/04/10/interface-segregation-principle-solid/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
