@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [RabbitMQ – Topic Exchange](https://emrecanayar.com/2023/04/20/rabbitmq-topic-exchange/)
 - [RabbitMQ – Fanout Exchange](https://emrecanayar.com/2023/04/19/rabbitmq-fanout-exchange/)
 - [RabbitMQ – Direct Exchange](https://emrecanayar.com/2023/04/19/rabbitmq-direct-exchange/)
 - [RabbitMQ – Gelişmiş Kuyruk Mimarisi](https://emrecanayar.com/2023/04/18/rabbitmq-gelismis-kuyruk-mimarisi/)
-- [RabbitMQ – Basit Düzeyde Publisher ve Consumer Uygulamaları Oluşturma](https://emrecanayar.com/2023/04/16/rabbitmq-basit-duzeyde-publisher-ve-consumer-uygulamalari-olusturma/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
