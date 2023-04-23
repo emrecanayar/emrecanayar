@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Entity Framework Core – Change Tracker Mekanizması](https://emrecanayar.com/2023/04/23/entity-framework-core-change-tracker-mekanizmasi/)
 - [Entity Framework Core – GroupBy Fonksiyonu](https://emrecanayar.com/2023/04/23/entity-framework-core-groupby-fonksiyonu/)
 - [Entity Framework Core – Querying 4](https://emrecanayar.com/2023/04/23/entity-framework-core-querying-4/)
 - [Entity Framework Core – Querying 3](https://emrecanayar.com/2023/04/23/entity-framework-core-querying-3/)
-- [Entity Framework Core – Querying 2](https://emrecanayar.com/2023/04/23/entity-framework-core-querying-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
