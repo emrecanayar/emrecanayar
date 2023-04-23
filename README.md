@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Entity Framework Core – Querying 1](https://emrecanayar.com/2023/04/23/entity-framework-core-querying-1/)
 - [Entity Framework Core – Code First Yaklaşımı](https://emrecanayar.com/2023/04/23/entity-framework-core-code-first-yaklasimi/)
 - [.NET Core Refit Kütüphanesi](https://emrecanayar.com/2023/04/22/net-core-refit-kutuphanesi/)
 - [RabbitMQ – MassTransit ile Request/Response Pattern Uygulaması](https://emrecanayar.com/2023/04/22/rabbitmq-masstransit-ile-request-response-pattern-uygulamasi/)
-- [RabbitMQ – Enterprise Service Bus &amp; MassTransit](https://emrecanayar.com/2023/04/21/rabbitmq-enterprise-service-bus-masstransit/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
