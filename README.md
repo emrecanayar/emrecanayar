@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Entity Framework Core – Querying 4](https://emrecanayar.com/2023/04/23/entity-framework-core-querying-4/)
 - [Entity Framework Core – Querying 3](https://emrecanayar.com/2023/04/23/entity-framework-core-querying-3/)
 - [Entity Framework Core – Querying 2](https://emrecanayar.com/2023/04/23/entity-framework-core-querying-2/)
 - [Entity Framework Core – Querying 1](https://emrecanayar.com/2023/04/23/entity-framework-core-querying-1/)
-- [Entity Framework Core – Code First Yaklaşımı](https://emrecanayar.com/2023/04/23/entity-framework-core-code-first-yaklasimi/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
