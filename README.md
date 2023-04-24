@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Entity Framework Core – Bire Çok İlişki &lpar;Code-First&rpar;](https://emrecanayar.com/2023/04/24/entity-framework-core-bire-cok-iliski-code-first/)
 - [Entity Framework Core – Bire Bir İlişki &lpar;Code-First&rpar;](https://emrecanayar.com/2023/04/24/entity-framework-core-bire-bir-iliski-code-first/)
 - [Entity Framework Core – AsNoTracking](https://emrecanayar.com/2023/04/24/entity-framework-core-asnotracking/)
 - [Entity Framework Core – Change Tracker Mekanizması](https://emrecanayar.com/2023/04/23/entity-framework-core-change-tracker-mekanizmasi/)
-- [Entity Framework Core – GroupBy Fonksiyonu](https://emrecanayar.com/2023/04/23/entity-framework-core-groupby-fonksiyonu/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
