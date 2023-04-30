@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Entity Framework Core – Explicit Loading](https://emrecanayar.com/2023/04/30/entity-framework-core-explicit-loading/)
+- [Entity Framework Core – Eager loading](https://emrecanayar.com/2023/04/30/entity-framework-core-eager-loading/)
 - [Entity Framework Core – Çoka Çok İlişki &lpar;Code-First&rpar;](https://emrecanayar.com/2023/04/25/entity-framework-core-coka-cok-iliski-code-first/)
 - [Entity Framework Core – Bire Çok İlişki &lpar;Code-First&rpar;](https://emrecanayar.com/2023/04/24/entity-framework-core-bire-cok-iliski-code-first/)
-- [Entity Framework Core – Bire Bir İlişki &lpar;Code-First&rpar;](https://emrecanayar.com/2023/04/24/entity-framework-core-bire-bir-iliski-code-first/)
-- [Entity Framework Core – AsNoTracking](https://emrecanayar.com/2023/04/24/entity-framework-core-asnotracking/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
