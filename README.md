@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Entity Framework – FromSqlInterpolated, FromSql, FromSqlRaw, SqlQuery](https://emrecanayar.com/2023/05/02/entity-framework-fromsqlinterpolated-fromsql-fromsqlraw-sqlquery/)
 - [Entity Framework Core – Lazy loading](https://emrecanayar.com/2023/05/02/entity-framework-core-lazy-loading/)
 - [Entity Framework Core – Explicit Loading](https://emrecanayar.com/2023/04/30/entity-framework-core-explicit-loading/)
 - [Entity Framework Core – Eager loading](https://emrecanayar.com/2023/04/30/entity-framework-core-eager-loading/)
-- [Entity Framework Core – Çoka Çok İlişki &lpar;Code-First&rpar;](https://emrecanayar.com/2023/04/25/entity-framework-core-coka-cok-iliski-code-first/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
