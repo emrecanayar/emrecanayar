@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [.Net Core In-Memory ve Disturbed Caching – Redis](https://emrecanayar.com/2023/05/07/net-core-in-memory-ve-disturbed-caching-redis/)
 - [Redis Veri Türleri Nelerdir? – Redis](https://emrecanayar.com/2023/05/07/redis-veri-turleri-nelerdir-redis/)
 - [Caching Nedir? – Redis](https://emrecanayar.com/2023/05/07/caching-nedir-redis/)
 - [Entity Framework – FromSqlInterpolated, FromSql, FromSqlRaw, SqlQuery](https://emrecanayar.com/2023/05/02/entity-framework-fromsqlinterpolated-fromsql-fromsqlraw-sqlquery/)
-- [Entity Framework Core – Lazy loading](https://emrecanayar.com/2023/05/02/entity-framework-core-lazy-loading/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
