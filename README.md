@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [CQRS &lpar;Command Query Responsibility Segregation&rpar; Nedir?](https://emrecanayar.com/2024/01/22/cqrs-command-query-responsibility-segregation-nedir/)
-- [Domain Driven Design &lpar;DDD&rpar; nedir?](https://emrecanayar.com/2024/01/22/domain-driven-design-ddd-nedir/)
-- [.Net Core In-Memory ve Disturbed Caching – Redis](https://emrecanayar.com/2023/05/07/net-core-in-memory-ve-disturbed-caching-redis/)
-- [Redis Veri Türleri Nelerdir? – Redis](https://emrecanayar.com/2023/05/07/redis-veri-turleri-nelerdir-redis/)
+- [CQRS &lpar;Command Query Responsibility Segregation&rpar; Nedir?](https://emrecanayar.wordpress.com/2024/01/22/cqrs-command-query-responsibility-segregation-nedir/)
+- [Domain Driven Design &lpar;DDD&rpar; nedir?](https://emrecanayar.wordpress.com/2024/01/22/domain-driven-design-ddd-nedir/)
+- [.Net Core In-Memory ve Disturbed Caching – Redis](https://emrecanayar.wordpress.com/2023/05/07/net-core-in-memory-ve-disturbed-caching-redis/)
+- [Redis Veri Türleri Nelerdir? – Redis](https://emrecanayar.wordpress.com/2023/05/07/redis-veri-turleri-nelerdir-redis/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
