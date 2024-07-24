@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Decorator Tasarım Deseni](https://emrecanayar.wordpress.com/2024/07/25/decorator-tasarim-deseni/)
 - [Adapter Tasarım Deseni](https://emrecanayar.wordpress.com/2024/07/24/adapter-tasarim-deseni/)
 - [Factory Design Pattern](https://emrecanayar.wordpress.com/2024/07/24/factory-design-pattern/)
 - [Singleton Design Pattern](https://emrecanayar.wordpress.com/2024/07/24/singleton-design-pattern/)
-- [CQRS &lpar;Command Query Responsibility Segregation&rpar; Nedir?](https://emrecanayar.wordpress.com/2024/01/22/cqrs-command-query-responsibility-segregation-nedir/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
