@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Memory Caching Nedir?](https://emrecanayar.wordpress.com/2024/07/29/memory-caching-nedir/)
 - [Tasarım Desenleri Gerçek Hayat Örnekleri](https://emrecanayar.wordpress.com/2024/07/25/tasarim-desenleri-gercek-hayat-ornekleri/)
 - [Strategy Tasarım Deseni](https://emrecanayar.wordpress.com/2024/07/25/strategy-tasarim-deseni/)
 - [Observer Tasarım Deseni](https://emrecanayar.wordpress.com/2024/07/25/observer-tasarim-deseni/)
-- [Chain Of Responsibility Tasarım Deseni](https://emrecanayar.wordpress.com/2024/07/25/chain-of-responsibility-tasarim-deseni/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
