@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Write-behind caching](https://emrecanayar.wordpress.com/2024/08/06/write-behind-caching/)
 - [Write-through Caching](https://emrecanayar.wordpress.com/2024/07/30/write-through-caching/)
 - [Cache-aside Pattern ile Caching](https://emrecanayar.wordpress.com/2024/07/30/cache-aside-pattern-ile-caching/)
 - [Sliding Expiration ile Caching](https://emrecanayar.wordpress.com/2024/07/30/sliding-expiration-ile-caching/)
-- [Memory Caching Nedir?](https://emrecanayar.wordpress.com/2024/07/29/memory-caching-nedir/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
