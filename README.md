@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Encapsulation – OOP](https://emrecanayar.wordpress.com/2024/08/12/encapsulation-oop/)
 - [Rate limiting – Redis](https://emrecanayar.wordpress.com/2024/08/11/rate-limiting-redis/)
 - [Gerçek Zamanlı Bildirim Sistemi – Redis](https://emrecanayar.wordpress.com/2024/08/11/gercek-zamanli-bildirim-sistemi-redis/)
 - [E-Ticaret Uygulaması İçin Ürün Bilgileri Caching – Redis](https://emrecanayar.wordpress.com/2024/08/08/e-ticaret-uygulamasi-icin-urun-bilgileri-caching-redis/)
-- [Write-behind caching](https://emrecanayar.wordpress.com/2024/08/06/write-behind-caching/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
