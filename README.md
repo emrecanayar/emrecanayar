@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Abstraction&lpar;Soyutlama&rpar; Interface – OOP](https://emrecanayar.wordpress.com/2024/08/12/abstractionsoyutlama-interface-oop/)
 - [Abstraction&lpar;Soyutlama&rpar; Abstract Class – OOP](https://emrecanayar.wordpress.com/2024/08/12/abstractionsoyutlama-abstract-class-oop/)
 - [Polymorphism &lpar;Çok Biçimlilik&rpar; – OOP](https://emrecanayar.wordpress.com/2024/08/12/polymorphism-cok-bicimlilik-oop/)
 - [Inheritance &lpar;Kalıtım&rpar; – OOP](https://emrecanayar.wordpress.com/2024/08/12/inheritance-kalitim-oop/)
-- [Encapsulation – OOP](https://emrecanayar.wordpress.com/2024/08/12/encapsulation-oop/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
