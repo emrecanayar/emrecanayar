@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [C# Dynamic Search Altyapısı](https://emrecanayar.wordpress.com/2024/08/18/c-dynamic-search-altyapisi/)
 - [C#’da Pagination &lpar;Sayfalama&rpar; Altyapısı Kurmak](https://emrecanayar.wordpress.com/2024/08/18/cda-pagination-sayfalama-altyapisi-kurmak/)
 - [Back-end Proje Alt Yapısı](https://emrecanayar.wordpress.com/2024/08/18/back-end-proje-alt-yapisi/)
 - [C# da Eventlar](https://emrecanayar.wordpress.com/2024/08/15/c-da-eventlar/)
-- [Delegate Nedir?](https://emrecanayar.wordpress.com/2024/08/15/delegate-nedir/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
