@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AutoMapper Nedir? Nasıl Kullanılır?](https://emrecanayar.wordpress.com/2024/08/27/automapper-nedir-nasil-kullanilir/)
 - [Gelişmiş Asenkron ve Senkron Repository İmplementasyonu – 2](https://emrecanayar.wordpress.com/2024/08/26/gelismis-asenkron-ve-senkron-repository-implementasyonu-2/)
 - [Gelişmiş Asenkron ve Senkron Repository İmplementasyonu – 1](https://emrecanayar.wordpress.com/2024/08/26/gelismis-asenkron-ve-senkron-repository-implementasyonu-1/)
 - [C# Dynamic Search Altyapısı](https://emrecanayar.wordpress.com/2024/08/18/c-dynamic-search-altyapisi/)
-- [C#’da Pagination &lpar;Sayfalama&rpar; Altyapısı Kurmak](https://emrecanayar.wordpress.com/2024/08/18/cda-pagination-sayfalama-altyapisi-kurmak/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
