@@ -18,10 +18,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AutoMapper ile Eşleşmeyen Verileri Mapping’e Dahil Etme](https://emrecanayar.wordpress.com/2024/08/31/automapper-ile-eslesmeyen-verileri-mappinge-dahil-etme/)
 - [AutoMapper ile IValueResolver Kullanımı](https://emrecanayar.wordpress.com/2024/08/28/automapper-ile-ivalueresolver-kullanimi/)
 - [AutoMapper ile Özel Dönüşümler](https://emrecanayar.wordpress.com/2024/08/27/automapper-ile-ozel-donusumler/)
 - [AutoMapper Nedir? Nasıl Kullanılır?](https://emrecanayar.wordpress.com/2024/08/27/automapper-nedir-nasil-kullanilir/)
-- [Gelişmiş Asenkron ve Senkron Repository İmplementasyonu – 2](https://emrecanayar.wordpress.com/2024/08/26/gelismis-asenkron-ve-senkron-repository-implementasyonu-2/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
